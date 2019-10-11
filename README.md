@@ -1,3 +1,11 @@
 # Varios proyectos con Processing
 
-[![Processing](https://upload.wikimedia.org/wikipedia/commons/archive/2/2e/20180317063800%21Processing_3_logo.png)](https://processing.org/)
+En este repositorio estaré subiendo diversos proyectos realizados con la herramienta [Processing]
+
+Algunos de los proyectos son:
+  - [Lego]. Genera imagen "pixelada", en la que cada pixel es una pieza estilo lego.
+  - [videoToFrames]. Extrae un número determinado de cuadros de un archivo de video
+
+[Processing]: <https://processing.org/>
+[Lego]: <https://github.com/laadeho/varios/tree/master/Lego>
+[videoToFrames]: <https://github.com/laadeho/varios/tree/master/videoToFrames>
