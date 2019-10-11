@@ -2,6 +2,8 @@
 
 En este repositorio estaré subiendo diversos proyectos realizados con la herramienta [Processing]
 
+Poco a poco iré complementando las instrucciones y otros proyectos.
+
 Algunos de los proyectos son:
   - [Lego]. Genera imagen "pixelada", en la que cada pixel es una pieza estilo lego.
   - [videoToFrames]. Extrae un número determinado de cuadros de un archivo de video
