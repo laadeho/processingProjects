@@ -14,7 +14,7 @@ Algunos de los proyectos son:
   - [Atractores]. Ejemplo de atractor a partir de las coordenadas del mouse, de acuerdo a una distancia específica.
   
   # photoToVector
-  [photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg?raw=true)
+  [[photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg?raw=true)]
 
 [Lego]: <https://github.com/laadeho/varios/tree/master/Lego>
 [videoToFrames]: <https://github.com/laadeho/varios/tree/master/videoToFrames>
