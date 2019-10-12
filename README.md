@@ -12,6 +12,9 @@ Algunos de los proyectos son:
   - [mallaSonora]. Produce una malla 3d a partir de una canción seleccionada. El archivo de salida es en formato *.dxf
   - [Truchet]. Genera patrones inspirado en el trabajo de Truchet, a partir de una funcion llamada "modulo", remplazar el contenido de dicha función para crear nuevos patrones.
   - [Atractores]. Ejemplo de atractor a partir de las coordenadas del mouse, de acuerdo a una distancia específica.
+  
+  # photoToVector
+  [![photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg?raw=true)]
 
 [Lego]: <https://github.com/laadeho/varios/tree/master/Lego>
 [videoToFrames]: <https://github.com/laadeho/varios/tree/master/videoToFrames>
