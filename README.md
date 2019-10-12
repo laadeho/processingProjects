@@ -22,8 +22,19 @@ Algunos de los proyectos son:
   # photoToVector
   [![photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg)]
   
+  # readingCSV
+  [![readingCSV](https://raw.githubusercontent.com/laadeho/varios/master/ReadingCSV/readingCSV.png)]
+  
+  # mallaSonora
+  [![mallaSonora](https://raw.githubusercontent.com/laadeho/varios/master/mallaSonora/mallaSonora.png)]
+  
+  # Truchet
+  [![Truchet](https://raw.githubusercontent.com/laadeho/varios/master/Truchet/Truchet.png)]
+  
   # Atractores
   [![Atractores](https://raw.githubusercontent.com/laadeho/varios/master/Atractor/atractor.png)]
+  
+
   
 
 [Lego]: <https://github.com/laadeho/varios/tree/master/Lego>
