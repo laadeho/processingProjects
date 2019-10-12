@@ -13,12 +13,16 @@ Algunos de los proyectos son:
   - [Truchet]. Genera patrones inspirado en el trabajo de Truchet, a partir de una funcion llamada "modulo", remplazar el contenido de dicha función para crear nuevos patrones.
   - [Atractores]. Ejemplo de atractor a partir de las coordenadas del mouse, de acuerdo a una distancia específica.
   
+  # Lego
+  [![Lego](https://raw.githubusercontent.com/laadeho/varios/master/Lego/data/pict_pixel.png)]
+
+  # videoToFrames
+  [![videoToFrames](https://raw.githubusercontent.com/laadeho/varios/master/videoToFrames/videoToFrames.jpg)]
+  
   # photoToVector
   [![photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg?raw=true)]
   
-  # Lego
-[![Lego](https://raw.githubusercontent.com/laadeho/varios/master/Lego/data/pict_pixel.png)]
-
+  
 
 [Lego]: <https://github.com/laadeho/varios/tree/master/Lego>
 [videoToFrames]: <https://github.com/laadeho/varios/tree/master/videoToFrames>
