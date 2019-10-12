@@ -20,8 +20,10 @@ Algunos de los proyectos son:
   [![videoToFrames](https://raw.githubusercontent.com/laadeho/varios/master/videoToFrames/videoToFrames.jpg)]
   
   # photoToVector
-  [![photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg?raw=true)]
+  [![photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg)]
   
+  # Atractores
+  [![Atractores](https://raw.githubusercontent.com/laadeho/varios/master/Atractor/atractor.png)]
   
 
 [Lego]: <https://github.com/laadeho/varios/tree/master/Lego>
