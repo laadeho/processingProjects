@@ -12,6 +12,8 @@ Algunos de los proyectos son:
   - [mallaSonora]. Produce una malla 3d a partir de una canción seleccionada. El archivo de salida es en formato *.dxf
   - [Truchet]. Genera patrones inspirado en el trabajo de Truchet, a partir de una funcion llamada "modulo", remplazar el contenido de dicha función para crear nuevos patrones.
   - [Atractores]. Ejemplo de atractor a partir de las coordenadas del mouse, de acuerdo a una distancia específica.
+  - [Clases_pelotasRebotando]. Ejemplo con uso de clases, al arrastrar el mouse se crean pelotas de colores que rebotan en la pantalla.
+  - [Clases_drop]. Ejemplo con uso de clases, al arrastrar el mouse se crean partículas que emulan la pintura, que se escurre a diferente velocidad y dirección.
   
   # Lego
   [![Lego](https://raw.githubusercontent.com/laadeho/varios/master/Lego/data/pict_pixel.png)]
@@ -34,7 +36,11 @@ Algunos de los proyectos son:
   # Atractores
   [![Atractores](https://raw.githubusercontent.com/laadeho/varios/master/Atractor/atractor.png)]
   
-
+  # Clases_pelotasRebotando
+  [![Clases_pelotasRebotando](https://raw.githubusercontent.com/laadeho/varios/master/Clases_pelotasRebotando/Clases_pelotasRebotando.png)]
+  
+  # Clases_drop
+  [![Clases_drop](https://raw.githubusercontent.com/laadeho/varios/master/Clases_drop/Clases_drop.png)]
   
 
 [Lego]: <https://github.com/laadeho/varios/tree/master/Lego>
@@ -45,3 +51,5 @@ Algunos de los proyectos son:
 [Truchet]: <https://github.com/laadeho/varios/tree/master/Truchet>
 [Atractores]: <https://github.com/laadeho/varios/tree/master/Atractor>
 [photoToVector]: <https://github.com/laadeho/varios/tree/master/photoToVector>
+[Clases_pelotasRebotando]:<https://github.com/laadeho/varios/tree/master/Clases_pelotasRebotando>
+[Clases_drop]:<https://github.com/laadeho/varios/tree/master/Clases_drop>
