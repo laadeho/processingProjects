@@ -15,16 +15,13 @@ Algunos de los proyectos son:
   - [Clases_pelotasRebotando]. Ejemplo con uso de clases, al arrastrar el mouse se crean pelotas de colores que rebotan en la pantalla.
   - [Clases_drop]. Ejemplo con uso de clases, al arrastrar el mouse se crean partículas que emulan la pintura, que se escurre a diferente velocidad y dirección.
   
-  # Lego
-  [![Lego](https://raw.githubusercontent.com/laadeho/varios/master/Lego/data/pict_pixel.png)]
-
-  # videoToFrames
-  [![videoToFrames](https://raw.githubusercontent.com/laadeho/varios/master/videoToFrames/videoToFrames.jpg)]
+    # Clases_pelotasRebotando
+  [![Clases_pelotasRebotando](https://raw.githubusercontent.com/laadeho/varios/master/Clases_pelotasRebotando/Clases_pelotasRebotando.png)]
   
-  # photoToVector
-  [![photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg)]
+  # Clases_drop
+  [![Clases_drop](https://raw.githubusercontent.com/laadeho/varios/master/Clases_drop/Clases_drop.png)]
   
-  # readingCSV
+    # readingCSV
   [![readingCSV](https://raw.githubusercontent.com/laadeho/varios/master/ReadingCSV/readingCSV.png)]
   
   # mallaSonora
@@ -36,13 +33,15 @@ Algunos de los proyectos son:
   # Atractores
   [![Atractores](https://raw.githubusercontent.com/laadeho/varios/master/Atractor/atractor.png)]
   
-  # Clases_pelotasRebotando
-  [![Clases_pelotasRebotando](https://raw.githubusercontent.com/laadeho/varios/master/Clases_pelotasRebotando/Clases_pelotasRebotando.png)]
-  
-  # Clases_drop
-  [![Clases_drop](https://raw.githubusercontent.com/laadeho/varios/master/Clases_drop/Clases_drop.png)]
-  
+  # Lego
+  [![Lego](https://raw.githubusercontent.com/laadeho/varios/master/Lego/data/pict_pixel.png)]
 
+  # videoToFrames
+  [![videoToFrames](https://raw.githubusercontent.com/laadeho/varios/master/videoToFrames/videoToFrames.jpg)]
+  
+  # photoToVector
+  [![photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg)]
+  
 [Lego]: <https://github.com/laadeho/varios/tree/master/Lego>
 [videoToFrames]: <https://github.com/laadeho/varios/tree/master/videoToFrames>
 [readingCSV]: <https://github.com/laadeho/varios/tree/master/ReadingCSV>
