@@ -16,8 +16,10 @@ int anchoTotal = 4000;
 float promedia = 0;
 
 void setup() {
-  fullScreen(P3D, 0);
-  surface.setResizable(true);
+  //fullScreen(P3D, 1);
+  size(1920, 1200, P3D);
+  surface.setLocation(1920, 0);
+  surface.setResizable(false);
 
   //size(displayWidth, displayHeight, P3D);
   background(0);
