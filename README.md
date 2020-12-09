@@ -14,13 +14,17 @@ Algunos de los proyectos son:
   - [Atractores]. Ejemplo de atractor a partir de las coordenadas del mouse, de acuerdo a una distancia específica.
   - [Clases_pelotasRebotando]. Ejemplo con uso de clases, al arrastrar el mouse se crean pelotas de colores que rebotan en la pantalla.
   - [Clases_drop]. Ejemplo con uso de clases, al arrastrar el mouse se crean partículas que emulan la pintura, que se escurre a diferente velocidad y dirección.
+  - [imageColorSelector]. Una pequeña aplicación para seleccionar colores de una foto, enlistarla y capturar los colores para futuras referencias.
+  
+  # imageColorSelector
+  [![imageColorSelector](https://github.com/laadeho/processingProjects/blob/master/imageColorSelector/capturas/17_22_36_1135.png)]
   
     # Clases_pelotasRebotando
   [![Clases_pelotasRebotando](https://raw.githubusercontent.com/laadeho/varios/master/Clases_pelotasRebotando/Clases_pelotasRebotando.png)]
   
   # Clases_drop
   [![Clases_drop](https://raw.githubusercontent.com/laadeho/varios/master/Clases_drop/Clases_drop.png)]
-  
+
     # readingCSV
   [![readingCSV](https://raw.githubusercontent.com/laadeho/varios/master/ReadingCSV/readingCSV.png)]
   
