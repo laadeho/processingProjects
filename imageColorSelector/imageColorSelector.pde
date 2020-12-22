@@ -1,3 +1,7 @@
+import processing.pdf.*;
+
+PrintWriter output;
+
 PImage img;
 boolean imageLoaded;
 boolean mueve = true;
@@ -8,10 +12,12 @@ ArrayList <PointLoc> pl;
 boolean showImage = true;
 boolean arrange;
 
-boolean format;
 boolean captura;
 
-boolean dosPantallas = false;
+boolean dosPantallas = true;
+int estilo = 0;
+
+boolean crearTexto;
 
 void setup() {
   selectInput("Select a file to process:", "fileSelected");
@@ -20,7 +26,11 @@ void setup() {
 }
 
 void draw() {
+  if (captura) {
+    beginRecord(PDF, "capturas/"+hour()+"_"+minute()+"_"+second()+"_####.pdf");
+  }
   background(0);
+
   if (imageLoaded) {
     if (showImage)
       image(img, 0, 0);
@@ -44,9 +54,28 @@ void draw() {
       plTemp.pos = PVector.lerp(plTemp.pos, plTemp.posBack, 0.05);
     }
   }
+
+
   if (captura) {
     saveFrame("capturas/"+hour()+"_"+minute()+"_"+second()+"_####.png");
+    endRecord();
+    crearTexto = true;
     captura = false;
+  }
+  if (crearTexto) {
+    output = createWriter("capturas/color_"+ estilo + ".txt");
+    output.print("{");
+    for (int i=0; i<pl.size(); i++) {
+      PointLoc plTemp = pl.get(i);
+      output.print(plTemp.st);
+    }
+    output.print("},");
+
+    output.flush(); // Writes the remaining data to the file
+    output.close(); // Finishes the file
+    //exit(); // Stops the program
+
+    crearTexto = false;
   }
 }
 
@@ -66,10 +95,14 @@ void keyPressed() {
     arrange = !arrange;
     break;
   case 'f':
-    format = !format;
+    estilo ++;
+    estilo = estilo%4;
     break;
   case 'c':
     captura = true;
+    break;
+  case 't':
+    crearTexto = true;
     break;
   }
 }

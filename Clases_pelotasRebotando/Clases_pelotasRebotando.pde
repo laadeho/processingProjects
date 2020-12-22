@@ -1,7 +1,8 @@
 ArrayList<Punto> puntos;
 
 void setup() {
-  size(600, 600);
+  //size(600, 600);
+  fullScreen();
   colorMode(HSB, 360, 100, 100, 100);
   background(0, 0, 0);
   puntos = new ArrayList<Punto>();

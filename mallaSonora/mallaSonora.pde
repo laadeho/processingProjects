@@ -114,5 +114,7 @@ void keyPressed() {
   //nodoAL.add(new Nodos(16, 450));
   if (key == 'R' || key == 'r') { // Press R to save the file
     graba = true;
+  } else if (key == 's') {
+    saveFrame("####.png");
   }
 }
