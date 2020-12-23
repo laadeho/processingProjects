@@ -25,10 +25,11 @@ void draw() {
       popMatrix();
     }
   }
-  if(grabar){
+  if (grabar) {
     endRecord();
+    saveFrame("truchet.png");
     grabar = false;
-  }  
+  }
 }
 
 void modulo1() {// funcion. Serie de instrucciones.
