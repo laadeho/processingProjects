@@ -45,7 +45,7 @@ Algunos de los proyectos son:
   [![videoToFrames](https://raw.githubusercontent.com/laadeho/varios/master/videoToFrames/videoToFrames.jpg)]
   
   # photo_to_vector
-  [![photoToVector](https://github.com/laadeho/varios/blob/master/photo_to_vector/data/imgToVectot.png)]
+  [![photoToVector](https://github.com/laadeho/processingProjects/blob/master/photo_to_vector/data/imgToVector.png)]
 
   # photoToVector
   [![photoToVector](https://github.com/laadeho/varios/blob/master/photoToVector/48_vector.jpg)]
